@@ -1,0 +1,103 @@
+{
+	"portfolio": [
+		{
+			"cover": "01.jpeg",
+			"title": "Gylroy figma layout",
+			"description": "HTML SCSS gulp ",
+			"url": "https://kadokan81.github.io/gilroy/",
+			"git": "https://github.com/kadokan81/gilroy",
+			"name": "Gylroy",
+			"type": "css"
+		},
+		{
+			"cover": "05.jpg",
+			"title": "MINESWEEPER",
+			"description": "Next.js Typescript Styled Storybook TDD",
+			"url": "https://minesweeper-nu-rust.vercel.app/",
+			"name": "MINESWEEPER",
+			"git": "https://github.com/kadokan81/minesweeper/tree/main/.storybook",
+			"type": "next"
+		},
+		{
+			"cover": "03.jpg",
+			"title": "Chinchilla Cat",
+			"description": "Next graphql styled swiper hygraph",
+			"url": "https://chinchilla-cat-club-polland-git-main-kadokan81.vercel.app/",
+			"git": "https://github.com/kadokan81/chinchilla-shop/tree/main",
+			"name": "Chinchilla Cat",
+			"type": "next"
+		},
+		{
+			"cover": "06.jpg",
+			"title": "Realtor Clone",
+			"description": "React Fierbase Auth ",
+			"url": "https://realtor-clone-six-pi.vercel.app/",
+			"git": "https://github.com/kadokan81/realtor-clone/tree/main",
+			"name": "realtor-clone",
+			"type": "react"
+		},
+		{
+			"cover": "07.jpg",
+			"title": "Blog App",
+			"description": "Next Tailwindcss Hydraph ",
+			"url": "https://graph-talicss-blog.vercel.app/",
+			"git": "https://github.com/kadokan81/graph-talicss-blog",
+			"name": "Blog App",
+			"type": "next"
+		},
+		{
+			"cover": "qery.jpg",
+			"title": "React query test",
+			"description": "React React-Query Form Validation",
+			"url": "https://abz-task-f7d5c.firebaseapp.com/",
+			"git": "https://github.com/kadokan81/abz-tack",
+			"name": "React query test",
+			"type": "React React Query"
+		},
+		{
+			"cover": "04.jpg",
+			"title": "Furniture Design",
+			"description": "Gulp SCSS HTML",
+			"url": "https://kadokan81.github.io/furniture-design/",
+			"git": "https://github.com/kadokan81/furniture-design",
+			"name": "Furniture Design",
+			"type": "gulp scss html "
+		},
+		{
+			"cover": "food.jpg",
+			"title": "Food Figma",
+			"description": "Gulp SCSS HTML",
+			"url": "https://kadokan81.github.io/food-delivery-layout/",
+			"git": "https://github.com/kadokan81/food-delivery-layout",
+			"name": "Food Figma",
+			"type": "gulp scss html "
+		},
+		{
+			"cover": "poker.jpg",
+			"title": "Poker Figma",
+			"description": "Gulp SCSS HTML",
+			"url": "https://kadokan81.github.io/poker-site-layout/",
+			"git": "https://github.com/kadokan81/poker-site-layout",
+			"name": "Poker Figma",
+			"type": "gulp scss html "
+		},
+		{
+			"cover": "agency.jpg",
+			"title": "Agency Figma",
+			"description": "Gulp SCSS HTML",
+			"url": "https://kadokan81.github.io/agency-page/",
+			"git": "https://github.com/kadokan81/agency-page",
+			"name": "Agency figma",
+			"type": "gulp scss html "
+		},
+		{
+			"cover": "gitar.jpg",
+			"title": "Rhythm Figma",
+			"description": "Gulp SCSS HTML",
+			"url": "https://kadokan81.github.io/rhythm/",
+			"git": "https://github.com/kadokan81/rhythm",
+			"name": "Rhythm figma",
+			"type": "gulp scss html "
+		}
+	]
+}
